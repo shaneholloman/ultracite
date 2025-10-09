@@ -1,5 +1,11 @@
 ## 5.6.0
 
+## 5.6.2
+
+### Patch Changes
+
+- c3a9dad: Bump deps
+
 ## 5.6.1
 
 ### Patch Changes
