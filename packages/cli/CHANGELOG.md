@@ -1,5 +1,11 @@
 ## 5.6.0
 
+## 6.0.6
+
+### Patch Changes
+
+- b7451ee: Improve core glob
+
 ## 6.0.5
 
 ### Patch Changes
