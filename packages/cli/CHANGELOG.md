@@ -1,5 +1,12 @@
 ## 5.6.0
 
+## 6.1.1
+
+### Patch Changes
+
+- 7aa5fd8: pass diagnostic-level filter option (stop-gap)
+- f9e2141: Update existing tsconfig files instead of creating a new root one
+
 ## 6.1.0
 
 ### Minor Changes
