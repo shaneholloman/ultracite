@@ -1,5 +1,12 @@
 ## 5.6.0
 
+## 7.0.11
+
+### Patch Changes
+
+- c032612: Fix: Parser Errors on .jsonc Files Due to Comments
+- a556651: Move oxlint to optionalDependencies or peerDependencies
+
 ## 7.0.10
 
 ### Patch Changes
